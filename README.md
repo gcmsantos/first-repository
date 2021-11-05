@@ -1,4 +1,4 @@
-# Projeto de desafio sobre Git/GitHub da DIO
+# Desafio de Projeto sobre Git/GitHub
 Meu primeiro repositório - Aprendendo Git e GitHub
 
 ## Links Úteis:
