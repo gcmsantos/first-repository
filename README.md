@@ -1,2 +1,8 @@
-# first-repository
-My First Repository - Learning GitHub
+# Projeto de desafio sobre Git/GitHub da DIO
+Meu primeiro repositório - Aprendendo Git e GitHub
+
+## Links Úteis:
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+
+
